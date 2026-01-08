@@ -1,3 +1,3 @@
-# Hi I'm DeeruzX
+# Hi, I'm Deeruz 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeeruzX)](https://github.com/DeeruzX/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeeruzX&show_icons=true&theme=tokyonight&cache_seconds=86400)
